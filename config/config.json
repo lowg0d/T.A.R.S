@@ -1,0 +1,9 @@
+{
+    "conn_addr": "127.0.0.1",
+    "conn_rcp_port": 50000,
+    "conn_stream_port": 50001,
+    "console_user": "l0w",
+
+    "save_flights_data": false,
+    "save_flight_logs": false
+}

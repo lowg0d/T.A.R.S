@@ -1,0 +1,13 @@
+{
+    "name": "test",
+    "type": "test",
+
+    "target_apoapsis": 50,
+    "island_heading": 0,
+    "trajectory": "None",
+
+    "countdown": 5,
+    "avoid_countdown": false,
+    "trhottle_up": 1,
+    "trhottle_start": 55
+}
